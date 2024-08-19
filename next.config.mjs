@@ -1,8 +1,10 @@
-/** @type {import('next').NextConfig} */
+/**
+ * @type {import('next').NextConfig}
+ */
 const nextConfig = {
-    basePath: '/Mttalento',
-    assetPrefix: '/Mttalento/',
-  };
-  
-  export default nextConfig;
+  output: 'export',
+  distDir: 'dist',
+}
+ 
+export default nextConfig;
   
