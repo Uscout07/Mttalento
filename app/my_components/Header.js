@@ -13,7 +13,7 @@ export default function Header() {
       <div className="container mx-auto flex p-2 flex-row items-center justify-between lg:px-10 lg:pt-3">
         {/* Logo Section */}
         <a className="flex title-font font-medium items-center text-gray-900">
-          <img className='w-20 max-lg:w-[7vh]' src='/logo.png' alt='Logo' />
+          <img className='w-20 max-lg:w-[7vh]' src='logo.png' alt='Logo' />
         </a>
         
         {/* Hamburger Menu for Mobile */}
