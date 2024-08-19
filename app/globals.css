@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Alegreya_sans_sc {
+  font-family: var(--font-alegreya-sans-sc);
+}
+
+.Alfa_Slab_One {
+  font-family: var(--font-alfa-slab-one);
+}
+
+*{
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
