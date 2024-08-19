@@ -5,7 +5,7 @@ export default function Testimonials() {
     <section
       className="text-gray-600 body-font"
       style={{
-        backgroundImage: "url('/testimonialbg.jpg')",
+        backgroundImage: "url('testimonialbg.jpg')",
         backgroundPosition: "center",
         backgroundSize: "cover"
       }}

@@ -12,7 +12,7 @@ export default function Contact() {
         <div
           className="lg:w-3/4 md:p-20 py-20 px-5 md:w-2/3 mx-auto"
           style={{
-            backgroundImage: "url('/contact.jpg')",
+            backgroundImage: "url('contact.jpg')",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}

@@ -7,7 +7,7 @@ export default function HeroSection() {
     <section
       className="h-[90vh] flex flex-col items-center justify-center md:mt-[12vh]"
       style={{
-        backgroundImage: "url('/herobackground.png')",
+        backgroundImage: "url('herobackground.png')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
