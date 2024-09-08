@@ -623,9 +623,9 @@ import { Icon } from '@iconify/react';
     }, []);
   
     return (
-      <div className='w-full md:h-screen max-md:h-[150vh] relative max-md:flex max-md:flex-col' id='Actors'>
+      <div className='w-full md:h-screen max-md:h-[150vh] relative max-md:flex max-md:flex-col' id='Actores'>
         <h1 className='text-[3em] text-red-600 absolute top-[80px] left-1/2 transform -translate-x-1/2'>
-          Actors
+          Actores
         </h1>
         <div className='w-[40%] h-[100%] absolute items-start top-1/2 left-0 transform -translate-y-1/2 transition-transform duration-3000 ease-in-out max-md:relative max-md:w-full max-md:h-[60%]'>
           <img
