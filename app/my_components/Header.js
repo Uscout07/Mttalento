@@ -35,7 +35,7 @@ export default function Header() {
           <a className="mb-5 lg:mb-0 text-4xl lg:text-2xl alegreya_sans_sc text-[#EE0102]" href='#'>Inicio</a>
           <a className="mb-5 lg:mb-0 text-4xl lg:text-2xl alegreya_sans_sc text-[#EE0102]" href='#Sobre'>Lo Que Hacemos</a>
           <a className="mb-5 lg:mb-0 text-4xl lg:text-2xl alegreya_sans_sc text-[#EE0102]" href='#Servicios'>Servicios</a>
-          <a className="mb-5 lg:mb-0 text-4xl lg:text-2xl alegreya_sans_sc text-[#EE0102]" href='#Testimonios'>Testimonios</a>
+          <a className="mb-5 lg:mb-0 text-4xl lg:text-2xl alegreya_sans_sc text-[#EE0102]" href='#Actors'>Actors</a>
         </nav>
 
         {/* Social Icons */}

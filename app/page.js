@@ -5,7 +5,7 @@ import Header from "./my_components/Header";
 import Hero from "./my_components/Hero";
 import About_us from "./my_components/About_us";
 import Services from "./my_components/Services";
-import Testimonials from "./my_components/Testimonials";
+import ActorSlider from './my_components/ActorsSlider';
 import Contact from "./my_components/Contact";
 import Footer from "./my_components/Footer";
 import AOS from 'aos';
@@ -39,7 +39,8 @@ export default function Home() {
       <Hero/>
       <About_us/>
       <Services/>
-      <Testimonials/>
+      <ActorSlider/>
+
       <Contact/>
       <Footer/>
     </main>
