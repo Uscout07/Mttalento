@@ -637,7 +637,7 @@ import { Icon } from '@iconify/react';
   
         {/* Actor Info */}
         <div
-          className='w-[60%] h-[90%] absolute top-1/2 right-0 transform -translate-y-1/2 flex flex-col md:justify-center items-start transition-opacity duration-1500 ease-in-out p-10 max-md:relative max-md:w-full max-md:h-[50%] max-md:p-4'
+          className='w-[60%] h-[90%] absolute top-1/2 right-0 transform -translate-y-1/2 flex flex-col md:justify-center items-start transition-opacity duration-1500 ease-in-out p-10 max-md:relative max-md:w-full max-md:h-[50%] md:px-5 max-md:p-4'
           style={{ opacity: 1 }}
         >
           <h2 className='text-[2em] uppercase text-red-600 max-md:text-[2em]'>{actors[currentIndex].name}</h2>
