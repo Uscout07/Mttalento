@@ -669,14 +669,14 @@ import { Icon } from '@iconify/react';
   
         {/* Navigation Buttons */}
         <button
-          className='absolute  md:top-1/2  md:-translate-y-1/2 max-md:left-0 bg-red-600 text-white px-2 py-2 max-md:top-[40%] rounded-tr-full rounded-br-full md:text-[1.1em]'
+          className='absolute  md:top-1/2  md:-translate-y-1/2 max-md:left-0 bg-red-600 text-white px-3 py-2 max-md:top-[40%] rounded-tr-full rounded-br-full md:text-[1.1em]'
           onClick={prevSlide}
           
         >
           Prev
         </button>
         <button
-          className='absolute md:top-1/2  md:-translate-y-1/2  transform  right-0 bg-red-600 text-white px-2 py-2 max-md:top-[40%] rounded-tl-full rounded-bl-full md:text-[1.1em]'
+          className='absolute md:top-1/2  md:-translate-y-1/2  transform  right-0 bg-red-600 text-white px-3 py-2 max-md:top-[40%] rounded-tl-full rounded-bl-full md:text-[1.1em]'
           onClick={nextSlide}
         >
           Next
